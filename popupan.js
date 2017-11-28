@@ -2,7 +2,7 @@
 	var url_popup = 'http://bit.ly/1JdPEQv';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/2A50Oh2';
+	  // var url_ppp = 'http://bit.ly/2BtP9pW';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
